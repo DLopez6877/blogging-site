@@ -29,13 +29,16 @@ a {
   border-color: black;
 }
 
-a:hover {
-  color:orange;
-}
-
 a:visited {
   color: black;
 }
 
 a:default {
   color: black;
+}
+
+
+a:hover {
+  color: white;
+  background-color: blue;
+}

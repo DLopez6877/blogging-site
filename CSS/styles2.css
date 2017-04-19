@@ -1,8 +1,18 @@
 
+body {
+  text-align: center;
+}
 
-
-
-
+h1 {
+  font-size: 3em;
+}
+.about {
+  text-align: left;
+  text-indent: 20px;
+  font-size: 1.3em;
+  font-family: serif;
+  line-height: 140%;
+}
 
 a {
   text-align: left;
@@ -15,14 +25,15 @@ a {
   border-color: black;
 }
 
-a:hover {
-  color:orange;
-}
-
 a:visited {
   color: black;
 }
 
 a:default {
   color: black;
+}
+
+a:hover {
+  color: white;
+  background-color: blue;
 }
