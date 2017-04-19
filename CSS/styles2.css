@@ -1,0 +1,28 @@
+
+
+
+
+
+
+a {
+  text-align: left;
+  background-color: lightgrey;
+  padding: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+}
+
+a:hover {
+  color:orange;
+}
+
+a:visited {
+  color: black;
+}
+
+a:default {
+  color: black;
+}

@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px
+
+}
+
+h2 {
+  font-style: italic;
+
+}
+
+.blog-posts {
+  text-align: left;
+  line-height: 30px;
+  padding-bottom: 30px;
+}
+
+a {
+  text-align: left;
+  background-color: lightgrey;
+  padding: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+}
+
+a:hover {
+  color:orange;
+}
+
+a:visited {
+  color: black;
+}
+
+a:default {
+  color: black;
